@@ -1,0 +1,37 @@
+<annotation>
+	<folder>person</folder>
+	<filename>513.png</filename>
+	<path>/person/513.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>1496</width>
+		<height>1496</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1067</xmin>
+			<ymin>452</ymin>
+			<xmax>1195</xmax>
+			<ymax>661</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1168</xmin>
+			<ymin>425</ymin>
+			<xmax>1249</xmax>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+</annotation>
