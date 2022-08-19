@@ -1,0 +1,25 @@
+<annotation>
+	<folder>person</folder>
+	<filename>229.png</filename>
+	<path>/person/229.png</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>256</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>31</xmin>
+			<ymin>37</ymin>
+			<xmax>109</xmax>
+			<ymax>238</ymax>
+		</bndbox>
+	</object>
+</annotation>
