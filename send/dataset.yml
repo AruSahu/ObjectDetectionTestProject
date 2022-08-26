@@ -3,4 +3,4 @@ train: images
 val: images
 
 nc: 2
-names: ['gas cylinder', 'gas cylinder heads']
+names: ['Gas Cylinder', 'Gas Cylinder Head']
