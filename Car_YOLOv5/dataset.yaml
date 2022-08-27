@@ -1,5 +1,6 @@
-train: ../train/images
-val: ../valid/images
+path: /kaggle/working/yolov5/data
+train: images
+val: images
 
 nc: 1
 names: ['car']
